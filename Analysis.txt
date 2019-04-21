@@ -1,0 +1,4 @@
+3 observable trends
+	1) High and low latitudes are correlated with lower temperature.  Latitudes close to zero have higher temps.
+	2) There does not appear to be any relationship between latitude and clouds.
+	3) The cities with very high and very low latitudes seem to have the most extreme examples of high wind speed.
